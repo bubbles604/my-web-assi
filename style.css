@@ -1,0 +1,30 @@
+p{
+    font-size: 16px;
+    color: darkblue;
+}
+#header {
+    color: darkred;
+    text-align: center;
+}
+.title {
+    color: green;
+}
+h1,h2 {
+    font-family: Arial;
+}
+body {
+    background-color: lightgray;
+}
+img {
+    width: 300px;
+    height:auto;
+    border: 5px solid black;
+    border-radius: 10px;
+    
+    
+}
+a:hover{
+    color: red;
+}
+    
+
